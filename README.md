@@ -1,5 +1,5 @@
 # KugouDownloader
-### `Windows OS PC Kugou Music Download Tool                   .... 酷狗无损音乐下载器`
+### `Windows OS Desktop PC Kugou Music Download Tool                   .... 酷狗无损音乐下载器`
 
  [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Release)
 
