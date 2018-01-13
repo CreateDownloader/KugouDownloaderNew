@@ -1,9 +1,7 @@
 # KugouDownloader
 Kugou Music Download Tool | 酷狗无损音乐下载器
 
-
-
-[![Build Status](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Release)
+# `Windows OS PC` [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Release)
 
 # 酷狗无损音乐下载器
 酷狗无损音乐下载器
