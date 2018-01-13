@@ -12,3 +12,5 @@ Kugou Music Download Tool | 酷狗无损音乐下载器
 * 界面调整
 
 [酷狗无损音乐下载器](https://github.com/Gsangu/KugouDownloader)
+
+![web](Kugou%20Music%20Download%20Tool.PNG)
