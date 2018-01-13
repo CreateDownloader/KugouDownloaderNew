@@ -1,6 +1,8 @@
 # KugouDownloader
 Kugou Music Download Tool | 酷狗无损音乐下载器
 
+![https://github.com/CreateDownloader/KugouDownloader/releases/tag/Release/](Download.PNG)
+
 # 酷狗无损音乐下载器
 酷狗无损音乐下载器
 #### 功能
