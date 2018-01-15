@@ -10,7 +10,7 @@
 
 `packages / CSkin`
 
-`packages / Newtonsoft.Json.Net20.dll `
+`packages / Newtonsoft.Json `
 
 `packages / Microsoft.CSharp`
 
@@ -19,7 +19,7 @@
 ***
 
 [![Build Microsoft Nuget Packages Newtonsoft.Json](https://www.newtonsoft.com/content/images/nugeticon.png)](https://www.nuget.org/packages/Newtonsoft.Json/)  
-**No Download packages Newtonsoft.Json ..................**
-### `No Download` & `packages / Newtonsoft.Json`  
+**Download packages Newtonsoft.Json ..................**
+### `Download` & `packages / Newtonsoft.Json`  
 
 ***
