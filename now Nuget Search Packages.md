@@ -1,7 +1,7 @@
 # Kugou Downloader
 ### `Windows OS PC Kugou Music Download Tool                   .... 酷狗无损音乐下载器`
 
- [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Release)
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Debug)
 ## Visual Studio 2017
 ## Visual Studio 2015
 ## Visual Studio 2013
