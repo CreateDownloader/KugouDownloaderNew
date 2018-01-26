@@ -1,11 +1,11 @@
-# Kugou Music Player ```KugouDownloader``` 📦 🆓 🆕  :cn: :egypt: :us: :gb:
+# *Kugou Music Player ```KugouDownloader``` 📦 🆓 🆕  :cn: :egypt: :us: :gb:*
 
-## ````The Prerequisites are Required:````
+### *The Prerequisites are Required:*
 ***
-# **Loading preview… Kugou Music Download Tool** 
+## *Loading preview… Kugou Music Download Tool* 
 ## ```Microsoft .NET Framework 4.5.2```
 ***
-# **Loading preview… Kugou Music Downloader GO** 
+## *Loading preview… Kugou Music Downloader GO* 
 ## ```Microsoft .NET Framework 4.6.1```
 ***
 
