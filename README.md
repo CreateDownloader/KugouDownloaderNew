@@ -2,6 +2,10 @@
 
 *:cn: :egypt: :us: :gb:*
 
+[![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloader/)
+
+![status](https://img.shields.io/badge/Status-%20Ready%20for%20Awesome-red.svg)
+
 ### *The Prerequisites are Required:*
 ***
 ## *Loading preview… Kugou Music Download Tool* 
