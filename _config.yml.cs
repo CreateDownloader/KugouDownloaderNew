@@ -1,4 +1,7 @@
 # Site settings
+<yml>
+<html lang="en", lang="en-US", lang="ar", lang="eg", lang="cn", lang="zh">
+<yml>
 
 title: Windows OS Desktop PC Kugou Music Player 👍 | Kugou Music Download Tool & Kugou Music Downloader GO
 
