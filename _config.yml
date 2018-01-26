@@ -2,9 +2,15 @@ theme: jekyll-theme-cayman
 ico: favicon.ico
 icon: favicon.ico
 favicon: favicon.ico
+theme-color: #157878
+stylesheet: https://fonts.googleapis.com/icon?family=Material+Icons
+fonts: https://fonts.googleapis.com/icon?family=Material+Icons
+link: https://www.googleplaymusicdesktopplayer.com/css/materialize.min.css
+link: https://www.googleplaymusicdesktopplayer.com/css/style.css?2
+link:
 lang: en, en-US, ar, eg, cn, zh,
 locale: en, en-US, ar, eg, cn, zh,
 lang: "en", "en-US", "ar", "eg", "cn", "zh"
 locale: "en", "en-US", "ar", "eg", "cn", "zh"
 
-lang="en", lang="en-US", lang="ar", lang="eg", lang="cn", lang="zh"
+lang="en", lang="en-US", lang="ar", lang="eg", lang="cn", lang="zh",
