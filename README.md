@@ -22,14 +22,18 @@
 #### 修复
 * 修复付费音乐项导致解析出错的Bug
 * 界面调整
+
 ***
+
 [酷狗无损音乐下载器](https://github.com/Gsangu/KugouDownloader)
+
  *** 
 ![web](Kugou%20Music%20Download%20Tool.PNG)
+
 ***
 # <center>Open Source Microsoft Visual Studio 2013 + 2015 + 2017 </center>
 
-*****
+***
 ### ``Microsoft Windows OS Desktop PC Kugou Flac Music Downloader GO``
 # Chinese (Simplified) 👍 酷狗 - 音乐下载GO
 # Chinese (Traditional) 👍 酷狗 - 音樂下載GO
@@ -41,4 +45,4 @@
 [KugouFlacMusicDownloader](https://github.com/plainheart/KugouFlacMusicDownloader)
 
 ![web](KugouMusicDownloaderGO.PNG)
-***
+
