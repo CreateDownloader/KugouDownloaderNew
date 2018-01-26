@@ -1,9 +1,9 @@
-# ////
 theme: jekyll-theme-cayman
+theme-color: #157878
+
 ico: favicon.ico
 icon: favicon.ico
 favicon: favicon.ico
-theme-color: #157878
 stylesheet: https://fonts.googleapis.com/icon?family=Material+Icons
 fonts: https://fonts.googleapis.com/icon?family=Material+Icons
 link: https://www.googleplaymusicdesktopplayer.com/css/materialize.min.css
