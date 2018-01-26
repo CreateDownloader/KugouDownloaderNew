@@ -1,5 +1,6 @@
-<cs>
-Now.index.html
+<cs> <vb> Now.index.html </vb>
+<html lang="en", lang="en-US", lang="ar", lang="eg", lang="cn", lang="zh">
+
 </cs>
 <url>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
