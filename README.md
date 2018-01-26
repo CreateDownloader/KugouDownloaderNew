@@ -17,6 +17,9 @@
  *** 
 ![web](Kugou%20Music%20Download%20Tool.PNG)
 ***
+# <center>NOW Open Source</center>
+
+*****
 ## An Open-Source And Free Flac Music Downloader For Kugou Music Player
 [KugouFlacMusicDownloader](https://github.com/plainheart/KugouFlacMusicDownloader)
 
