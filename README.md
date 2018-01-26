@@ -1,4 +1,4 @@
-# **Kugou Music Player ```KugouDownloader```** 📦 🆓 🆕 
+# **Kugou Music Player ```Kugou Downloader```** 📦 🆓 🆕 
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloader/)
 
