@@ -1,8 +1,10 @@
 ## **The Prerequisites are Required:**
 ***
-# **Loading preview… Kugou Music Download Tool** | ```Microsoft .NET Framework 4.5.2```
+# **Loading preview… Kugou Music Download Tool** 
+## ```Microsoft .NET Framework 4.5.2```
 ***
-# **Loading preview… Kugou Music Downloader GO** | ```Microsoft .NET Framework 4.6.1```
+# **Loading preview… Kugou Music Downloader GO** 
+## ```Microsoft .NET Framework 4.6.1```
 ***
 # KugouDownloader
 ### `Windows OS Desktop PC Kugou Music Download Tool & Go                .... 酷狗无损音乐下载器`
