@@ -12,14 +12,13 @@
 #### 修复
 * 修复付费音乐项导致解析出错的Bug
 * 界面调整
-
-[酷狗无损音乐下载器](https://github.com/Gsangu/KugouDownloader)
- 
-*** 
- 
-![web](Kugou%20Music%20Download%20Tool.PNG)
-
 ***
+[酷狗无损音乐下载器](https://github.com/Gsangu/KugouDownloader)
+ *** 
+![web](Kugou%20Music%20Download%20Tool.PNG)
+***
+## An Open-Source And Free Flac Music Downloader For Kugou Music Player
+[KugouFlacMusicDownloader](https://github.com/plainheart/KugouFlacMusicDownloader)
 
 ![web](KugouMusicDownloaderGO.PNG)
 ***
