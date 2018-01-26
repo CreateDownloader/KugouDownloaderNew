@@ -1,6 +1,6 @@
 # *Kugou Music Player ```KugouDownloader```* 📦 🆓 🆕 
 
-## :cn: :egypt: :us: :gb:
+*:cn: :egypt: :us: :gb:*
 
 ### *The Prerequisites are Required:*
 ***
