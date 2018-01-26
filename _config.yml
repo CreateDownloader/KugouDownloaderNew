@@ -3,9 +3,8 @@ ico: favicon.ico
 icon: favicon.ico
 favicon: favicon.ico
 lang: en, en-US, ar, eg, cn, zh,
-lang: "en", "en-US", "ar", "eg", "cn", "zh"
-
 locale: en, en-US, ar, eg, cn, zh,
+lang: "en", "en-US", "ar", "eg", "cn", "zh"
 locale: "en", "en-US", "ar", "eg", "cn", "zh"
 
 lang="en", lang="en-US", lang="ar", lang="eg", lang="cn", lang="zh"
