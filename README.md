@@ -1,6 +1,6 @@
 # **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloader/)
+[![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloaderNew/)
 
 ### *The Prerequisites are Required:*
 ***
