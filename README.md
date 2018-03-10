@@ -1,4 +1,4 @@
-# **Kugou Music Player ```Kugou Downloader```** 📦 🆓 🆕 
+# **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloader/)
 
@@ -14,7 +14,7 @@
 # **KugouDownloader**
 ### `Windows OS Desktop PC Kugou Music Download Tool & Go                .... 酷狗无损音乐下载器`
 
- [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Debug)
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
 # 酷狗无损音乐下载器
 酷狗无损音乐下载器
@@ -41,7 +41,7 @@
 # Chinese (Simplified) 👍 酷狗 - 音乐下载GO
 # Chinese (Traditional) 👍 酷狗 - 音樂下載GO
 # ```Loading preview… KugouMusicDownloaderGO```
- [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloader/releases/tag/Debug)
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
 ***
 ## An Open-Source And Free Flac Music Downloader For Kugou Music Player
