@@ -1,5 +1,7 @@
 # **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 
 
+# [```Loading preview Go```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
+
 [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloaderNew/)
 
 ### *The Prerequisites are Required:*
@@ -28,7 +30,9 @@
 
 ***
 
-[酷狗无损音乐下载器](https://github.com/Gsangu/KugouDownloader)
+
+#### 酷狗无损音乐下载器 Kugou Music Player
+ [![Build KugouFlacMusicDownloader](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/Gsangu/KugouDownloader) 
 
  *** 
 ![web](Kugou%20Music%20Download%20Tool.PNG)
@@ -44,8 +48,8 @@
  [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
 ***
-## An Open-Source And Free Flac Music Downloader For Kugou Music Player
-[KugouFlacMusicDownloader](https://github.com/plainheart/KugouFlacMusicDownloader)
+#### An Open-Source And Free Flac Music Downloader For Kugou Music Player
+ [![Build KugouFlacMusicDownloader](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/plainheart/KugouFlacMusicDownloader) 
 
 ![web](KugouMusicDownloaderGO.PNG)
 
