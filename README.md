@@ -1,6 +1,6 @@
 # **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 
 
-# [```Loading preview Go```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
+# [```Loading preview Ctolib.com```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloaderNew/)
 
