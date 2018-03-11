@@ -1,4 +1,4 @@
-# **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 
+# **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 :accept:
 
 # [```Loading preview Ctolib.com```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
 
