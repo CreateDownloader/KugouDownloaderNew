@@ -2,7 +2,6 @@
 
 # [```Loading preview Ctolib.com```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/KugouDownloaderNew/)
 
 ### *The Prerequisites are Required:*
 ***
@@ -13,8 +12,9 @@
 ## ```Microsoft .NET Framework 4.6.1```
 ***
 
-# **KugouDownloader**
-### `Windows OS Desktop PC Kugou Music Download Tool & Go                .... 酷狗无损音乐下载器`
+# **KugouDownloader** [![Build Status](Build.svg)](https://github.com/CreateDownloader/KugouDownloaderNew/)
+### `Windows OS Desktop PC Kugou Music Download Tool & Go .... 酷狗无损音乐下载器` 
+
 
  [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
@@ -52,5 +52,3 @@
  [![Build KugouFlacMusicDownloader](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/plainheart/KugouFlacMusicDownloader) 
 
 ![web](KugouMusicDownloaderGO.PNG)
-
-*:cn: :egypt: :us: :gb:*
