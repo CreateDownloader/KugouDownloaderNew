@@ -15,9 +15,9 @@
 # **KugouDownloader** [![Build Status](Build.svg)](https://github.com/CreateDownloader/KugouDownloaderNew/)
 #### ``Windows OS Desktop PC Kugou Music Player | Kugou Music Download Tool & Go Loading ...``
 
-##### :+1: Chinese Simplified (酷狗无损音乐下载器) Kugou Music Download Tool
-#####  :+1: Chinese Simplified (酷狗 - 音乐下载GO) Kugou Music Downloader GO
-##### :+1: Chinese Traditional ( 酷狗 - 音樂下載GO) Kugou Music Downloader GO
+##### 👍  Chinese Simplified (酷狗无损音乐下载器) Kugou Music Download Tool
+#####  👍  Chinese Simplified (酷狗 - 音乐下载GO) Kugou Music Downloader GO
+##### 👍  Chinese Traditional ( 酷狗 - 音樂下載GO) Kugou Music Downloader GO
 
  [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
