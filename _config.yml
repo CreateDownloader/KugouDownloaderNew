@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: "Kugou Music Download | Tool @ GO"
-timezone:
+time: dd/MM/yyyy
+timezone: hh:mm:ss tt
 ico: favicon.ico
 icon: favicon.ico
 favicon: favicon.ico
+UTC/GMT +2 hours
