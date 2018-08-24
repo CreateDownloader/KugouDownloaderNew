@@ -1,3 +1,10 @@
+
+##  PayPal Payments Standard Donate 
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Button%20PayPal%20Donate.png)](http://paypal.me/MohamedOsama914/5)
+
+[![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/PayPal.html)
+
+
 # **Kugou Music Player ```Kugou Downloader New```** 📦 🆓 🆕 :accept:
 
 # [```Loading preview Ctolib.com```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
@@ -21,6 +28,25 @@
 
  [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
 
+
+
+***
+# <center>Open Source Microsoft Visual Studio 2013 + 2015 + 2017 </center>
+
+***
+### ``Microsoft Windows OS Desktop PC Kugou Flac Music Downloader GO``
+# Chinese (Simplified) 👍 酷狗 - 音乐下载GO
+# Chinese (Traditional) 👍 酷狗 - 音樂下載GO
+# ```Loading preview… KugouMusicDownloaderGO```
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
+
+***
+#### An Open-Source And Free Flac Music Downloader For Kugou Music Player
+ [![Build KugouFlacMusicDownloader](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/plainheart/KugouFlacMusicDownloader) 
+
+![web](KugouMusicDownloaderGO.PNG)
+***
+
 # 酷狗无损音乐下载器
 酷狗无损音乐下载器
 #### 功能
@@ -40,18 +66,4 @@
  *** 
 ![web](Kugou%20Music%20Download%20Tool.PNG)
 
-***
-# <center>Open Source Microsoft Visual Studio 2013 + 2015 + 2017 </center>
 
-***
-### ``Microsoft Windows OS Desktop PC Kugou Flac Music Downloader GO``
-# Chinese (Simplified) 👍 酷狗 - 音乐下载GO
-# Chinese (Traditional) 👍 酷狗 - 音樂下載GO
-# ```Loading preview… KugouMusicDownloaderGO```
- [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/KugouDownloaderNew/releases/tag/Debug)
-
-***
-#### An Open-Source And Free Flac Music Downloader For Kugou Music Player
- [![Build KugouFlacMusicDownloader](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://github.com/plainheart/KugouFlacMusicDownloader) 
-
-![web](KugouMusicDownloaderGO.PNG)
