@@ -1,9 +1,13 @@
-favicon: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
-theme: jekyll-theme-slate
 title: "Windows OS Desktop PC Kugou Music Player Download Tool & Go"
-time: dd/MM/yyyy
-UTC/GMT +2 hours
+theme: jekyll-theme-slate
 
-timezone: hh:mm:ss tt
-ico: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
+timezone: Africa/Nairobi
+time: dd/MM/yyyy
+favicon: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
 icon: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
+ico: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
+
+<!--
+UTC/GMT +2 hours
+ timezone: hh:mm:ss tt 
+ -->
