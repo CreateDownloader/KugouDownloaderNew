@@ -4,8 +4,7 @@
 
 [![ donate PayPal ](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/paypay@2x.png?height=40px&width=30px)](https://createbrowser.github.io/ACefSharpChromiumBrowserNewWindowsDesktopPC/PayPal.html)
 
-
-# **Kugou Music Player ```Kugou Downloader New```** :Readme: 🆓 🆕 :accept:
+## **Kugou Music Player ```Kugou Downloader New```** :Donate: 🆓 🆕 :accept:
 > ## **`Win OS Desktop PC Kugou Music Player Download Tool & Go`**
 
 # [```Loading preview Ctolib.com```](https://www.ctolib.com/CreateDownloader-KugouDownloaderNew.html)
