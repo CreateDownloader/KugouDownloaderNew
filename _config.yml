@@ -1,12 +1,11 @@
 theme: jekyll-theme-slate
 title: "Windows OS Desktop PC Kugou Music Player Download Tool & Go"
 favicon: https://createdownloader.github.io/KugouDownloaderNew/favicon.ico
-timezone: Africa/Nairobi
-time: dd/MM/yyyy
 
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+time: dd/MM/yyyy
+timezone: Africa/Nairobi
+icon: favicon.ico
+ico: favicon.ico
