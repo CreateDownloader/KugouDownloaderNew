@@ -1,11 +1,12 @@
 theme: jekyll-theme-cayman
 title: "Windows OS Desktop PC Kugou Music Player Download Tool & Go"
 description: Kugou Downloader Windows OS Desktop PC Kugou Music Player Download 
-#show_nav: false
 show_sidebar: true
 show_downloads: true
 download_url: https://github.com/CreateDownloader/KugouDownloaderNew/releases/download/Debug/Debug.KugouMusicDownloader.GO.EXE.zip
 
+#show_nav: false
+#
 #favicon: favicon.ico
 #icon: favicon.ico
 #ico: favicon.ico
