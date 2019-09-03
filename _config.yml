@@ -11,7 +11,7 @@ download_url: https://github.com/CreateDownloader/KugouDownloaderNew/releases/do
 #logo: /assets/img/logo.png
 #google_analytics:
 encoding: UTF-8
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-octicons  
 github:
