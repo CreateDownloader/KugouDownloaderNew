@@ -3,15 +3,17 @@ description: Kugou Downloader Windows OS Desktop PC Kugou Music Player Download
 show_nav: false
 show_sidebar: true
 show_downloads: true
-download_url: https://github.com/CreateDownloader/KugouDownloaderNew/releases/download/v1.0.0-beta2/joomla-twig-v1.0.0-beta2.zip
+download_url: https://github.com/CreateDownloader/KugouDownloaderNew/releases/download/Debug/Debug.KugouMusicDownloader.GO.EXE.zip
 
 #favicon: favicon.ico
 #icon: favicon.ico
 #ico: favicon.ico
 #logo: /assets/img/logo.png
 #google_analytics:
-
+encoding: UTF-8
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-octicons  
 github:
   is_project_page: true
   owner_name: KugouDownloaderNew
